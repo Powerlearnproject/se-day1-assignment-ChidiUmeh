@@ -4,16 +4,15 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.\
 Software Engineering is the act of coding and building applications to solve real_world problems. We live in a world of technology where technology makes work easier. Take for instance a bank mobile application. Users can easily make transaction instead of going to the bank thereby reducing stress for both customers and the bank staffs. 
 
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+
 The birth of software engineering in 1968 marked a shift from ad-hoc programming to structured development, addressing the software crisis. 
 In the 1970s, structured programming emerged, improving maintainability by introducing modularity and control structures. 
 The Agile Manifesto in 2001 revolutionized software development by promoting iterative, flexible, and collaborative approaches over rigid methodologies like Waterfall.
 
-List and briefly explain the phases of the Software Development Life Cycle.
+
 The Software Development Life Cycle (SDLC) consists of several phases that guide software development from inception to deployment and maintenance. These include:
 Planning – Defines project scope, objectives, resources, and feasibility to ensure successful development.
 Requirement Analysis – Gathers and documents user needs and system requirements for clarity and accuracy.
@@ -23,7 +22,7 @@ Testing – Identifies and fixes bugs, ensuring the software meets requirements 
 Deployment – Releases the software for use, either as a full rollout or in stages.
 Maintenance – Provides updates, fixes issues, and enhances features to keep the software efficient and secure.
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Waterfall and Agile are two distinct software development methodologies, each suited for different types of projects based on structure, flexibility, and customer involvement.
 
 Approach:
@@ -56,19 +55,18 @@ Mobile app development – Where user feedback is crucial, and frequent updates 
 Startups building MVPs (Minimum Viable Products) – To quickly test ideas and adapt based on market response.
 E-commerce or web applications – Where continuous improvement and feature additions are required.
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 A Software Developer is responsible for designing, coding, and maintaining software applications.
 A Quality Assurance Engineer ensures that software meets quality standards before release. 
 A Project Manager (PM) oversees the planning, execution, and delivery of software projects.
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 Integrated Development Environments (IDEs) provide a comprehensive environment for software development, integrating essential tools such as code editors, compilers, debuggers, and build automation. They improve developer productivity by offering features like syntax highlighting, code suggestions, and debugging tools. examples include VS Code, Pycharm.
 
 Version Control Systems (VCS) allows developers to track and manage changes to code, collaborate effectively, and maintain a history of modifications. It prevents code conflicts in teams and enables rollback to previous versions when needed. It includes Git which is a remote version control, Github and Bitbucket which are cloud_based version control.
 
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-Common Challenges Faced by Software Engineers and Strategies to Overcome Them include:
+
 1. Debugging and Fixing Bugs
 Challenge: Identifying and resolving complex bugs can be time-consuming and frustrating.
 Solution: Use debugging tools, log errors systematically, and follow structured troubleshooting methods. Writing unit tests and adopting test-driven development (TDD) can also help catch issues early.
@@ -98,7 +96,7 @@ Challenge: Miscommunication among team members can lead to misunderstandings and
 Solution: Use collaboration tools like Slack, Confluence, or Microsoft Teams. Hold regular stand-up meetings to ensure alignment and encourage open discussions within the team.
 
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 1. Unit Testing : Tests individual components or functions of the software in isolation and helps catch bugs early, making debugging easier and reducing development costs.
 
 2. Integration Testing:Tests how different modules or components of the software interact with each other and identifies issues in module interactions before full system deployment.
@@ -110,7 +108,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 #Part 2: Introduction to AI and Prompt Engineering
 
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+
 Prompt Engineering is the practice of designing and optimizing prompts to effectively interact with AI models, ensuring accurate and relevant responses.
 Importance:
 Enhances AI Performance – Well-crafted prompts improve response accuracy and relevance.
@@ -118,7 +116,7 @@ Increases Efficiency – Reduces trial and error, saving time in obtaining usefu
 Customizes AI Behavior – Tailors responses to specific needs, improving user experience.
 Optimizes Decision-Making – Helps generate insightful and actionable results in various applications like chatbots, coding assistants, and content generation.
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Vague Prompt:
 "Tell me about technology."
 
